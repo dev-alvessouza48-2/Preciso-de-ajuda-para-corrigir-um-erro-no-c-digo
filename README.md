@@ -1,1 +1,1 @@
-# Preciso-de-ajuda-para-corrigir-um-erro-no-c-digo
+# Estou com dificuldade de plotar o gráfico deste cálculo de otmização geométrica no python.
